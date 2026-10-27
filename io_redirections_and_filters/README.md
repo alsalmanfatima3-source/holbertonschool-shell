@@ -4,4 +4,4 @@ This project contains Bash scripts for practicing input/output redirections and 
 
 ## Scripts
 
-- `0-hello_world`: Prints "Hello, World" followed by a new line.
+- `0-hello_world`: Prints "Hello, World" followed by a new line.- `2-hellofile`: Displays the content of the /etc/passwd file.
